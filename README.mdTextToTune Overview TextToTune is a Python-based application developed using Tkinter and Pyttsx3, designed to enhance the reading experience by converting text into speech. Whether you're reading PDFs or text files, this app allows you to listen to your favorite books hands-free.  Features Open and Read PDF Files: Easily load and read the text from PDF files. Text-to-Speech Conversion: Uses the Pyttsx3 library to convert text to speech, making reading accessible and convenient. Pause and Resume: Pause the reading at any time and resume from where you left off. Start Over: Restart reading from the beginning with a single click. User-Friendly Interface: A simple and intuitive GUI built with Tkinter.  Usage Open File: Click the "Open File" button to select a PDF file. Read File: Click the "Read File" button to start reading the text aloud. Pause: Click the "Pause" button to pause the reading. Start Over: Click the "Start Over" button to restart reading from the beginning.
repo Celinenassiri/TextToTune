@@ -1,0 +1,16 @@
+TextToTune
+Overview
+TextToTune is a Python-based application developed using Tkinter and Pyttsx3, designed to enhance the reading experience by converting text into speech. Whether you're reading PDFs or text files, this app allows you to listen to your favorite books hands-free.
+
+Features
+Open and Read PDF Files: Easily load and read the text from PDF files.
+Text-to-Speech Conversion: Uses the Pyttsx3 library to convert text to speech, making reading accessible and convenient.
+Pause and Resume: Pause the reading at any time and resume from where you left off.
+Start Over: Restart reading from the beginning with a single click.
+User-Friendly Interface: A simple and intuitive GUI built with Tkinter.
+
+Usage
+Open File: Click the "Open File" button to select a PDF file.
+Read File: Click the "Read File" button to start reading the text aloud.
+Pause: Click the "Pause" button to pause the reading.
+Start Over: Click the "Start Over" button to restart reading from the beginning.
